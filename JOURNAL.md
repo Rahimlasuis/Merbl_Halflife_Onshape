@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmv4z7i290gew01n0n4jvkvc8). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A custom 3D-printed marble race, designed from scratch! Learning how to design my own course and make cool tracks.
+> Currently building a very simple and basis marbel track. Following the marbel guide here on halflife-hackclub. It is my very first 3d modelling design The editable link https://cad.onshape.com/documents/9bdb636b5c94937f6f0104f6/w/0ae3c8c53b35e51bece831c3/e/8d0d286d0a48e6fc4da2e4d4
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
