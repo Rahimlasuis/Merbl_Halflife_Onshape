@@ -1,8 +1,12 @@
 # Merbl_Halflife_Onshape
 It is a 3d printable merbl track I built following a guide on hackclub halflife. It is also my first 3D modelling project.
-The guide was very very hard to follow at first. I had constant issues lines, junctions and joining point too. Sometimes it takes me hours trying to sweep a profile only to realize that they was a point where the line did no join properly with a curve. After about 5hrs into the guide I got so confused and I spoke to the cteator of the guide karnyx who later advised me to restart the work cause it looked so rubbish. It's so frustrating being a complete beginner. 
+The guide was very very hard to follow at first. I had constant issues lines, junctions and joining point too.
+Sometimes it takes me hours trying to sweep a profile only to realize that they was a point where the line did no join properly with a curve. 
+After about 5hrs into the guide I got so confused and I spoke to the cteator of the guide karnyx who later advised me to restart the work cause it looked so rubbish. 
+It's so frustrating being a complete beginner. 
 During my second trial i was conveniently able to use the sweep profile picture conveniently,
-then I also worked on the plinko track. This was terrifying but at the same time smooth. I constantly asked google questions at this point and it was so so helpful. I would have loved to learn about the funnel and staircase tracks and implement it. But I have run out of time. Even the extension I was given was mostly use figuring stuff out. 
+then I also worked on the plinko track. This was terrifying but at the same time smooth. I constantly asked google questions at this point and it was so so helpful. 
+I would have loved to learn about the funnel and staircase tracks and implement it. But I have run out of time. Even the extension I was given was mostly use figuring stuff out. 
 Then I assembled the individual parts together, two sweep/snake track and another extruded plinko track. I also designed the marble too.
 
 Here are some images while i was working
