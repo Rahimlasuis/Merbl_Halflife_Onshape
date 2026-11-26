@@ -1,4 +1,5 @@
 # Merbl_Halflife_Onshape
+The merbl run is a very simple and basic one. S0 there is nothing much to say here. 
 It is a 3d printable merbl track I built following a guide on hackclub halflife. It is also my first 3D modelling project.
 The guide was very very hard to follow at first. I had constant issues lines, junctions and joining point too.
 Sometimes it takes me hours trying to sweep a profile only to realize that they was a point where the line did no join properly with a curve. 
