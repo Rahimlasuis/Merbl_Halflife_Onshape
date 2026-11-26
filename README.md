@@ -15,23 +15,6 @@ Here are some images while i was working
 
 
 <img width="442" height="295" alt="1" src="https://github.com/user-attachments/assets/1e75f0a2-ad3c-4035-af1d-4b218eeec56c" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img width="1366" height="768" alt="all" src="https://github.com/user-attachments/assets/20a135bd-2a8f-493d-94e1-100a279fbd08" />
 <img width="1366" height="768" alt="can&#39;t " <img width="1366" height="768" alt="wierd" src="https://github.com/user-attachments/assets/0e735780-0daa-4cc2-a4d4-60311edaf8d3" />
 <img width="1366" height="768" alt="transition" src="https://github.com/user-attachments/assets/b75aec8f-3397-45fb-8b63-8a3c5e98c038" />
 <img width="470" height="253" alt="tangent" src="https://github.com/user-attachments/assets/2e9363ad-88b3-4e31-b17c-f0ac9e74cb9f" />
